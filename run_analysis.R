@@ -1,3 +1,5 @@
+library(dplyr)
+
 ## These functions calculate average value of variables for each subject and activity in "UCI HAR Dataset".. 
 
  
